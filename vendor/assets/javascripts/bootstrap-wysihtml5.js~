@@ -82,8 +82,9 @@
                 "ol": {},
                 "ul": {},
                 "li": {},
-                "h3": {},
-                "h4": {},
+                "h1": {},
+                "h2": {},
+                "blockquote": {},
                 "u": 1,
                 "img": {
                     "check_attributes": {
